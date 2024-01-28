@@ -1,0 +1,20 @@
+.NavBar{
+    background-color: #A0A0F9;
+    padding: 8px;
+    font-size: 1.2rem;
+    font-weight: 700;
+    align-items: center;
+    cursor: pointer;
+    display: flex;
+    gap: 10px;
+    height: 100%;
+    padding-left: 50px;
+}
+
+.NavBar img{
+    height: 50px;
+}
+
+.NavBar h1{
+    display: inline-block;
+}
